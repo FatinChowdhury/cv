@@ -139,10 +139,11 @@
       {Dawson Applied AI Institute Internship}{Feb. 2023 -- May 2023}
       {Dawson College}{Montreal, QC}
       \resumeItemListStart
-        \resumeItem{Collaborated with a team to enhance and optimize an existing data analysis dashboard using Python, Pandas and NumPy}
+        \resumeItem{Led a team of 5 members to enhance and optimize an existing data analysis dashboard using Python, Pandas, and NumPy, increasing its efficiency and accuracy}
+        \resumeItem{Effectively applied machine learning techniques to enhance smart buildings' intelligence and optimize their operations.}
         \resumeItem{Implemented interactive visualizations and data filters to provide insights for decision-makers}
-        \resumeItem{Participated in biweekly meetings with a mentor to discuss project progress, challenges and learning goals}
-        \resumeItem{Gave a presentation with colleagues about the internship's objective}
+        \resumeItem{Convened with a seasoned mentor to review project advancement, surmount obstacles, and set strategic learning objectives.}
+
       \resumeItemListEnd
       
 % -----------Multiple Positions Heading-----------
@@ -156,12 +157,21 @@
 %-------------------------------------------
 
     \resumeSubheading
-      {ICPC Participation}{Oct. 2023}
+      {International Collegiate Programming Competition Participation}{Oct. 2023}
       {McGill University}{Montreal, QC}
       \resumeItemListStart
-        \resumeItem{Demonstrated coding skills in Java to solve data structures and algorithm-related problems}
-        \resumeItem{Collaborated with teammates to tackle competitive programming problems}
+        \resumeItem{Applied Java programming skills adeptly to address intricate data structures and algorithmic challenges while representing our team in the prestigious International Collegiate Programming Competition}
+        \resumeItem{Engaged in collaborative problem-solving with teammates to craft ingenious solutions for competitive programming challenges, showcasing a remarkable blend of technical expertise and teamwork}
     \resumeItemListEnd
+
+    \resumeSubheading
+      {Tutor}{Aug. 2022 -- May 2023}
+      {Dawson College}{Montreal, QC}
+      \resumeItemListStart
+        \resumeItem{Provided individualized calculus instruction to students, resulting in improved academic performance and comprehension of complex mathematical concepts}
+        \resumeItem{Perfected communication skills by effectively conveying mathematical principles and solutions to diverse learners.}
+        \resumeItem{Cultivated a supportive and collaborative learning environment, fostering student engagement and motivation.}
+     \resumeItemListEnd
 
   \resumeSubHeadingListEnd
 
@@ -169,12 +179,22 @@
 %-----------PROJECTS-----------
 \section{Projects}
     \resumeSubHeadingListStart
-      \resumeProjectHeading
+        \resumeProjectHeading
           {\textbf{University Admission Analysis} $|$ \emph{Python, NumPy, Sklearn, Pandas} $|$ {\href{https://github.com/FatinChowdhury/University-Admissions-Analysis}{\underline{GitHub Link}}}}{May 2023}
           
           \resumeItemListStart
-            \resumeItem{Conducted an analysis about university admissions rate using Python and its libraries to visualize and explore large datasets}
-            \resumeItem{Enhanced data analysis by applying concepts acquired from DawsonAI internship}
+            \resumeItem{Analyzed university admissions rate using Python and its libraries to visualize and explore large datasets}
+            \resumeItem{Enhanced data analysis by applying concepts acquired from previous internship}
+            \resumeItemListEnd
+
+       \resumeProjectHeading
+          {\textbf{Bash Code Tester (C) } $|$ \emph{C, Bash}}{October 2023}
+          
+          \resumeItemListStart
+            \resumeItem{Developed comprehensive test cases and automation scripts in Bash to perfect C code's output, input validation, and error-handling mechanisms}
+            \resumeItem{Enhanced problem-solving and analytical skills by identifying and addressing issues in the C code, resulting in increased code stability and performance}
+            \resumeItemListEnd
+    
     \resumeSubHeadingListEnd
 
 
@@ -184,8 +204,8 @@
 \section{Technical Skills}
  \begin{itemize}[leftmargin=0.15in, label={}]
     \small{\item{
-     \textbf{Languages}{: Java, Python} \\
-     \textbf{Developer Tools}{: VS Code, Visual Studio, PyCharm, IntelliJ, Eclipse} \\
+     \textbf{Languages}{: Java, Python, C, Bash} \\
+     \textbf{Developer Tools}{: Linux/Unix, VS Code, Visual Studio, PyCharm, IntelliJ, Eclipse} \\
      \textbf{Libraries}{: Pandas, NumPy, Matplotlib, Sklearn}
     }}
  \end{itemize}
