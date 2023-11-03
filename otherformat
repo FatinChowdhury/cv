@@ -136,15 +136,32 @@
   \resumeSubHeadingListStart
 
     \resumeSubheading
+      {International Collegiate Programming Competition Participation}{Oct. 2023}
+      {McGill University}{Montreal, QC}
+      \resumeItemListStart
+        \resumeItem{Applied Java programming skills to address algorithmic challenges while representing our team in the International Collegiate Programming Competition}
+        \resumeItem{Engaged in collaborative problem-solving with teammates to craft solutions for competitive programming challenges, showcasing technical expertise in Object Oriented Programming and teamwork}
+    \resumeItemListEnd
+    
+    \resumeSubheading
       {Dawson Applied AI Institute Internship}{Feb. 2023 -- May 2023}
       {Dawson College}{Montreal, QC}
       \resumeItemListStart
         \resumeItem{Led a team of 5 members to enhance and optimize an existing data analysis dashboard using Python, Pandas, and NumPy, increasing its efficiency and accuracy}
-        \resumeItem{Effectively applied machine learning techniques to enhance smart buildings' intelligence and optimize their operations}
-        \resumeItem{Implemented interactive visualizations and data filters to provide insights for decision-makers}
+        \resumeItem{Effectively applied machine learning techniques, such as Principal Component Analysis, Time Series Analysis, and Random Forests and Decision Trees to enhance smart buildings' intelligence and optimize their operations}
+        \resumeItem{Implemented interactive visualizations and data filters to provide insights for decision-makers, leading to a substantial reduction in operational costs and enhanced energy efficiency in the context of smart buildings.}
         \resumeItem{Convened with a seasoned mentor to review project advancement, surmount obstacles, and set strategic learning objectives}
 
       \resumeItemListEnd
+
+      \resumeSubheading
+      {Tutor}{Aug. 2022 -- May 2023}
+      {Dawson College}{Montreal, QC}
+      \resumeItemListStart
+        \resumeItem{Provided individualized calculus instruction to students, resulting in improved academic performance and comprehension of complex mathematical concepts}
+        \resumeItem{Perfected communication skills by effectively conveying mathematical principles and solutions to diverse learners}
+        \resumeItem{Cultivated a supportive and collaborative learning environment, fostering student engagement and motivation}
+     \resumeItemListEnd
       
 % -----------Multiple Positions Heading-----------
 %    \resumeSubSubheading
@@ -156,22 +173,7 @@
 %    \resumeSubHeadingListEnd
 %-------------------------------------------
 
-    \resumeSubheading
-      {International Collegiate Programming Competition Participation}{Oct. 2023}
-      {McGill University}{Montreal, QC}
-      \resumeItemListStart
-        \resumeItem{Applied Java programming skills adeptly to address intricate data structures and algorithmic challenges while representing our team in the prestigious International Collegiate Programming Competition}
-        \resumeItem{Engaged in collaborative problem-solving with teammates to craft ingenious solutions for competitive programming challenges, showcasing a remarkable blend of technical expertise and teamwork}
-    \resumeItemListEnd
 
-    \resumeSubheading
-      {Tutor}{Aug. 2022 -- May 2023}
-      {Dawson College}{Montreal, QC}
-      \resumeItemListStart
-        \resumeItem{Provided individualized calculus instruction to students, resulting in improved academic performance and comprehension of complex mathematical concepts}
-        \resumeItem{Perfected communication skills by effectively conveying mathematical principles and solutions to diverse learners}
-        \resumeItem{Cultivated a supportive and collaborative learning environment, fostering student engagement and motivation}
-     \resumeItemListEnd
 
   \resumeSubHeadingListEnd
 
@@ -179,22 +181,22 @@
 %-----------PROJECTS-----------
 \section{Projects}
     \resumeSubHeadingListStart
-        \resumeProjectHeading
-          {\textbf{University Admission Analysis} $|$ \emph{Python, NumPy, Sklearn, Pandas} $|$ {\href{https://github.com/FatinChowdhury/University-Admissions-Analysis}{\underline{GitHub Link}}}}{May 2023}
-          
-          \resumeItemListStart
-            \resumeItem{Analyzed university admissions rate using Python and its libraries to visualize and explore large datasets}
-            \resumeItem{Enhanced data analysis by applying concepts acquired from previous internship}
-            \resumeItemListEnd
 
-       \resumeProjectHeading
+    \resumeProjectHeading
           {\textbf{Bash Code Tester (C) } $|$ \emph{C, Bash}}{October 2023}
           
           \resumeItemListStart
             \resumeItem{Developed comprehensive test cases and automation scripts in Bash to perfect C code's output, input validation, and error-handling mechanisms}
             \resumeItem{Enhanced problem-solving and analytical skills by identifying and addressing issues in the C code, resulting in increased code stability and performance}
             \resumeItemListEnd
-    
+            
+        \resumeProjectHeading
+          {\textbf{University Admission Analysis} $|$ \emph{Python, NumPy, Sklearn, Pandas} $|$ {\href{https://github.com/FatinChowdhury/University-Admissions-Analysis}{\underline{GitHub Link}}}}{May 2023}
+          
+          \resumeItemListStart
+            \resumeItem{Analyzed university admissions rate using Python and its libraries to visualize and explore large data sets}
+            \resumeItem{Enhanced data analysis by applying concepts acquired from the DawsonAI internship such as data cleaning and data reduction.}
+            \resumeItemListEnd
     \resumeSubHeadingListEnd
 
 
